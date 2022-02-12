@@ -37,12 +37,12 @@
     <Compile Include="Items\Lanche.cs" />
     <Compile Include="Items\Salgadinho.cs" />
     <Compile Include="Pedidos\Pedido.cs" />
-    <Compile Include="NotaFiscal\NotaFiscal.cs" />
+    <Compile Include="NotaFiscais\NotaFiscal.cs" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Items\" />
     <Folder Include="Pedidos\" />
-    <Folder Include="NotaFiscal\" />
+    <Folder Include="NotaFiscais\" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
 </Project>
